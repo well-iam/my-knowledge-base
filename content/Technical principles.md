@@ -1,0 +1,2 @@
+- "Make it work, then make it right, then make it fast, then make it pretty" - Kent Beck
+- 

@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: well-iam.github.io/my-knowledge-base
   ignorePatterns:
     - private
     - templates

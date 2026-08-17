@@ -1,0 +1,6 @@
+- [Multimodal RAG: A Beginner-friendly Guide (with Python Code) - YouTube](https://www.youtube.com/watch?v=Y7pNmocrmi8)
+- [Intro to multimodal RAG systems - YouTube](https://www.youtube.com/watch?v=fownOApoL-A)
+- [What is Multimodal RAG? \| IBM](https://www.ibm.com/think/topics/multimodal-rag)
+- [An Easy Introduction to Multimodal Retrieval-Augmented Generation \| NVIDIA Technical Blog](https://developer.nvidia.com/blog/an-easy-introduction-to-multimodal-retrieval-augmented-generation/)
+- [Retrieval Augmented Generation (RAG) - DeepLearning.AI](https://www.deeplearning.ai/courses/retrieval-augmented-generation?_gl=1*e2t357*_gcl_au*MTAzOTg0NzMxNS4xNzg1MzE3MTc5*_ga*OTE1NjM4NjMxLjE3ODUzMTcxNzk.*_ga_FR2MZ1VLMS*czE3ODU0OTA1NjYkbzMkZzEkdDE3ODU0OTA1ODgkajM4JGwwJGgw)
+- 

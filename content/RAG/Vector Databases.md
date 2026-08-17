@@ -1,0 +1,4 @@
+- [What is a Vector Database? Powering Semantic Search & AI Applications - YouTube](https://www.youtube.com/watch?v=gl1r1XV0SLw)
+- [Day 1 \| Vector Database Zero to Hero \| Getting Started with Vector Database \| How it works - YouTube](https://www.youtube.com/watch?v=PMoyrPwueqY)
+- [What are Word Embeddings? - YouTube](https://www.youtube.com/watch?v=wgfSDrqYMJ4)
+- 

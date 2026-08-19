@@ -1,1 +1,0 @@
-- Currently there are three configs: .env, config.yaml and default.yaml. Consider pruning some.

@@ -1,2 +1,2 @@
 - [LinkedIn Text Formatter - Typegrow](https://typegrow.com/tools/linkedin-text-formatter)
-- 
+- Mermaid JS: for drawing architectures (Diagrams as Code)

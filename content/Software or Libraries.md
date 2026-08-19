@@ -1,1 +1,0 @@
-Mermaid JS: for drawing architectures (Diagrams as Code)

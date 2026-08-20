@@ -3,3 +3,4 @@
 
 ## Unanswered Questions
 - Where are conversations stored?
+- If for a given file there's the .docx and .pdf version, which one should go through the ingestion pipeline and why?

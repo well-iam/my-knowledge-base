@@ -11,11 +11,11 @@ Il segreto per capire la loro indipendenza sta nel guardare **cosa usano come pi
 
 ## 1. La matrice dei confronti
 
-|**Metrica**|**Confronta...**|**...con cosa?**|**Domanda fondamentale**|
-|---|---|---|---|
-|**Answer Factfulness** _(Faithfulness)_|**Risposta Generata**|**Contesto Recuperato**|L'LLM si è attenuto _solo_ al testo fornito o si è inventato dettagli?|
-|**Answer Relevancy**|**Risposta Generata**|**Domanda Utente**|La risposta centra l'argomento richiesto o va fuori tema?|
-|**Answer Correctness**|**Risposta Generata**|**Ground Truth** _(Risposta di Riferimento)_|La risposta corrisponde alla "verità oggettiva" definita dagli esperti?|
+| **Metrica**                             | **Confronta...**      | **...con cosa?**                             | **Domanda fondamentale**                                                |
+| --------------------------------------- | --------------------- | -------------------------------------------- | ----------------------------------------------------------------------- |
+| **Answer Factfulness** _(Faithfulness)_ | **Risposta Generata** | **Contesto Recuperato**                      | L'LLM si è attenuto _solo_ al testo fornito o si è inventato dettagli?  |
+| **Answer Relevancy**                    | **Risposta Generata** | **Domanda Utente**                           | La risposta centra l'argomento richiesto o va fuori tema?               |
+| **Answer Correctness**                  | **Risposta Generata** | **Ground Truth** _(Risposta di Riferimento)_ | La risposta corrisponde alla "verità oggettiva" definita dagli esperti? |
 
 ## 2. I casi limite che ne dimostrano l'indipendenza
 

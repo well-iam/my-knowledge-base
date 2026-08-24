@@ -4,3 +4,4 @@
 ## Unanswered Questions
 - Where are conversations stored?
 - If for a given file there's the .docx and .pdf version, which one should go through the ingestion pipeline and why?
+- Should you take care of question/documents "prefixes" when switching model? (e5 was trained preprending either "passage: " or "query: " before embedding a text.)

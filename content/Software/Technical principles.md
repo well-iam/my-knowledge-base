@@ -1,2 +1,2 @@
 - "Make it work, then make it right, then make it fast, then make it pretty" - Kent Beck
-- 
+- Goodhart's law states that "==when a measure becomes a target, it ceases to be a good measure==." Coined by British economist [Charles Goodhart](https://en.wikipedia.org/wiki/Charles_Goodhart) in 1975, it means that once a metric is tied to a reward or penalty, people will manipulate the system to hit the number, ruining the metric's ability to track real progress.

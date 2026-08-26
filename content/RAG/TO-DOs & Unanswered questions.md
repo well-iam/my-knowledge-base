@@ -2,6 +2,9 @@
 - where models come from
 - analyze efficiency
 - verbose UI
+- Microsoft LOGIN (safety)
+- Output images (TOUGH)
+- Fix Jira
 ## Long term TO-DOs
 - Currently there are three configs: .env, config.yaml and default.yaml. Consider pruning some.
 

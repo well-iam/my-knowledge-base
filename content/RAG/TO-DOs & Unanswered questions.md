@@ -1,4 +1,8 @@
-## TO-DOs
+## ST TO-DOs
+- where models come from
+- analyze efficiency
+- verbose UI
+## Long term TO-DOs
 - Currently there are three configs: .env, config.yaml and default.yaml. Consider pruning some.
 
 ## Unanswered Questions

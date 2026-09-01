@@ -1,4 +1,3 @@
-
 The research statement is particularly important for Ph.D. applicants.
 
 ### Research Problem

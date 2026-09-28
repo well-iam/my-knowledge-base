@@ -7,6 +7,7 @@
 - Fix Jira
 ## Long term TO-DOs
 - Currently there are three configs: .env, config.yaml and default.yaml. Consider pruning some.
+- How do you manage the context of the models?
 
 ## Unanswered Questions
 - Where are conversations stored?

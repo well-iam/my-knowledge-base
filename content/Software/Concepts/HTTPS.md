@@ -1,0 +1,5 @@
+[About HTTPS - FastAPI](https://fastapi.tiangolo.com/deployment/https/)
+[Why do we need HTTPS? - How HTTPS works](https://howhttps.works/why-do-we-need-https/)
+[HTTPS](https://wizardzines.com/comics/https/)
+[Proxy server - Wikipedia](https://en.wikipedia.org/wiki/Proxy_server)
+[TLS termination proxy - Wikipedia](https://en.wikipedia.org/wiki/TLS_termination_proxy)
